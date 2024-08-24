@@ -1,0 +1,35 @@
+body{
+    font-size: 32px;
+    text-align: center;
+    background-color:#4682B4;    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 12px;
+}
+
+.titulo{
+    color: #fff;
+}
+
+.campo{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.operacao{
+    font-size: 20px;
+    padding: 6px;
+}
+
+.botao{
+    font-size: 20px;
+    padding: 6px;
+}
+
+
+#resposta{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fff;
+    font-size: 24px;
+    margin: 16px;
+}
+
